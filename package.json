@@ -1,0 +1,26 @@
+{
+  "name": "projetosteste",
+  "version": "1.0.0",
+  "description": "Códigos de teste em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamsSilva/ProjetosTeste.git"
+  },
+  "author": "WilliamsSilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamsSilva/ProjetosTeste/issues"
+  },
+  "homepage": "https://github.com/WilliamsSilva/ProjetosTeste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
